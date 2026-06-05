@@ -24,7 +24,7 @@
   </url>
   <url>
     <loc>blog/</loc>
-    <lastmod>2026-05-30T03:21:40+02:00</lastmod>
+    <lastmod>2026-06-04T00:00:00+00:00</lastmod>
     <image:image>
       <image:loc>assets/images/blog/blog-hero-1280.webp/</image:loc>
     </image:image>
@@ -749,5 +749,9 @@
     <image:image>
       <image:loc>assets/images/about/about-hero-1280.webp/</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>llms.txt</loc>
+    <lastmod>2026-06-04T00:00:00+00:00</lastmod>
   </url>
 </urlset>

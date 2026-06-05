@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iwdmiami.com/sitemap.xml

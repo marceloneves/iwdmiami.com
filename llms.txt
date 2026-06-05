@@ -1,0 +1,40 @@
+# IWD Miami Services & Construction
+
+> Licensed Florida multi-trade contractor (CGC). One team for construction, roofing, HVAC, plumbing, electrical, weatherization, outdoor, and specialty work. Florida Energy authorized. Service areas across Florida.
+
+## Primary pages
+
+- [Home](https://iwdmiami.com/): Florida multi-trade contractor hub and free quote
+- [Services](https://iwdmiami.com/services/): All service silos and trade overview
+- [Locations](https://iwdmiami.com/locations/): Florida cities and local service pages
+- [Questions / FAQs](https://iwdmiami.com/questions/): Homeowner FAQ library by trade
+- [Contact](https://iwdmiami.com/contact/): Free quote and contact form
+- [About](https://iwdmiami.com/about/): Company background and credentials
+
+## Service silos
+
+- [Construction](https://iwdmiami.com/construction/): Kitchen, bath, ADU, basement, additions
+- [Roofing](https://iwdmiami.com/roofing/): Replacement, repair, storm damage, siding, gutters
+- [HVAC](https://iwdmiami.com/hvac/): Heat pumps, AC, boilers, ductless, high-efficiency systems
+- [Plumbing](https://iwdmiami.com/plumbing/): Sewer, water heaters, gas lines, emergency plumbing
+- [Electrical](https://iwdmiami.com/electrical/): Panel upgrades, EV chargers, generators
+- [Weatherization](https://iwdmiami.com/weatherization/): Insulation, air sealing, Florida Energy programs
+- [Outdoor](https://iwdmiami.com/outdoor/): Decks, windows, doors, landscaping, paving
+- [Specialty](https://iwdmiami.com/specialty/): Flooring, tile, painting, handyman, smart home
+
+## Resources & programs
+
+- [Florida Energy rebates](https://iwdmiami.com/resources/florida-energy-rebates/): State rebate overview
+- [Florida Building Code](https://iwdmiami.com/resources/florida-building-code/): Code reference hub
+- [Programs](https://iwdmiami.com/programs/): Florida Energy, IRA 25C, heat loan, MOR-EV
+- [Blog](https://iwdmiami.com/blog/): Editorial hub (articles archive removed; new content coming)
+
+## Discovery
+
+- [Sitemap index](https://iwdmiami.com/sitemap.xml): Full XML sitemap index
+- [Location cities sitemap](https://iwdmiami.com/location-cities-sitemap.xml): All Florida city pages
+
+## Contact
+
+- Email: hello@iwdmiami.com
+- Quote: https://iwdmiami.com/contact/
