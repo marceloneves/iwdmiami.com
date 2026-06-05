@@ -1,0 +1,1827 @@
+{
+  "boston-ma": {
+    "fl_slug": "miami-fl",
+    "ma_name": "Boston",
+    "fl_name": "Miami"
+  },
+  "cambridge-ma": {
+    "fl_slug": "fort-lauderdale-fl",
+    "ma_name": "Cambridge",
+    "fl_name": "Fort Lauderdale"
+  },
+  "brookline-ma": {
+    "fl_slug": "hollywood-fl",
+    "ma_name": "Brookline",
+    "fl_name": "Hollywood"
+  },
+  "newton-ma": {
+    "fl_slug": "coral-springs-fl",
+    "ma_name": "Newton",
+    "fl_name": "Coral Springs"
+  },
+  "quincy-ma": {
+    "fl_slug": "hialeah-fl",
+    "ma_name": "Quincy",
+    "fl_name": "Hialeah"
+  },
+  "worcester-ma": {
+    "fl_slug": "orlando-fl",
+    "ma_name": "Worcester",
+    "fl_name": "Orlando"
+  },
+  "springfield-ma": {
+    "fl_slug": "jacksonville-fl",
+    "ma_name": "Springfield",
+    "fl_name": "Jacksonville"
+  },
+  "lowell-ma": {
+    "fl_slug": "pembroke-pines-fl",
+    "ma_name": "Lowell",
+    "fl_name": "Pembroke Pines"
+  },
+  "lynn-ma": {
+    "fl_slug": "west-palm-beach-fl",
+    "ma_name": "Lynn",
+    "fl_name": "West Palm Beach"
+  },
+  "plymouth-ma": {
+    "fl_slug": "palm-beach-gardens-fl",
+    "ma_name": "Plymouth",
+    "fl_name": "Palm Beach Gardens"
+  },
+  "barnstable-ma": {
+    "fl_slug": "cape-coral-fl",
+    "ma_name": "Barnstable",
+    "fl_name": "Cape Coral"
+  },
+  "barnstable-county-ma": {
+    "fl_slug": "miami-dade-county-fl",
+    "ma_name": "Barnstable County",
+    "fl_name": "Miami Dade County"
+  },
+  "bristol-county-ma": {
+    "fl_slug": "broward-county-fl",
+    "ma_name": "Bristol County",
+    "fl_name": "Broward County"
+  },
+  "suffolk-county-ma": {
+    "fl_slug": "palm-beach-county-fl",
+    "ma_name": "Suffolk County",
+    "fl_name": "Palm Beach County"
+  },
+  "middlesex-county-ma": {
+    "fl_slug": "hillsborough-county-fl",
+    "ma_name": "Middlesex County",
+    "fl_name": "Hillsborough County"
+  },
+  "essex-county-ma": {
+    "fl_slug": "orange-county-fl",
+    "ma_name": "Essex County",
+    "fl_name": "Orange County"
+  },
+  "norfolk-county-ma": {
+    "fl_slug": "duval-county-fl",
+    "ma_name": "Norfolk County",
+    "fl_name": "Duval County"
+  },
+  "plymouth-county-ma": {
+    "fl_slug": "pinellas-county-fl",
+    "ma_name": "Plymouth County",
+    "fl_name": "Pinellas County"
+  },
+  "worcester-county-ma": {
+    "fl_slug": "lee-county-fl",
+    "ma_name": "Worcester County",
+    "fl_name": "Lee County"
+  },
+  "hampden-county-ma": {
+    "fl_slug": "polk-county-fl",
+    "ma_name": "Hampden County",
+    "fl_name": "Polk County"
+  },
+  "franklin-county-ma": {
+    "fl_slug": "volusia-county-fl",
+    "ma_name": "Franklin County",
+    "fl_name": "Volusia County"
+  },
+  "berkshire-county-ma": {
+    "fl_slug": "sarasota-county-fl",
+    "ma_name": "Berkshire County",
+    "fl_name": "Sarasota County"
+  },
+  "hampshire-county-ma": {
+    "fl_slug": "collier-county-fl",
+    "ma_name": "Hampshire County",
+    "fl_name": "Collier County"
+  },
+  "dukes-county-ma": {
+    "fl_slug": "monroe-county-fl",
+    "ma_name": "Dukes County",
+    "fl_name": "Monroe County"
+  },
+  "nantucket-county-ma": {
+    "fl_slug": "martin-county-fl",
+    "ma_name": "Nantucket County",
+    "fl_name": "Martin County"
+  },
+  "abington-ma": {
+    "fl_slug": "alachua-fl",
+    "ma_name": "Abington",
+    "fl_name": "Alachua"
+  },
+  "acton-ma": {
+    "fl_slug": "alafaya-fl",
+    "ma_name": "Acton",
+    "fl_name": "Alafaya"
+  },
+  "acushnet-ma": {
+    "fl_slug": "alcoma-fl",
+    "ma_name": "Acushnet",
+    "fl_name": "Alcoma"
+  },
+  "adams-ma": {
+    "fl_slug": "alford-fl",
+    "ma_name": "Adams",
+    "fl_name": "Alford"
+  },
+  "agawam-ma": {
+    "fl_slug": "allandale-fl",
+    "ma_name": "Agawam",
+    "fl_name": "Allandale"
+  },
+  "alford-ma": {
+    "fl_slug": "allentown-fl",
+    "ma_name": "Alford",
+    "fl_name": "Allentown"
+  },
+  "amesbury-ma": {
+    "fl_slug": "alliance-fl",
+    "ma_name": "Amesbury",
+    "fl_name": "Alliance"
+  },
+  "amherst-ma": {
+    "fl_slug": "altamonte-springs-fl",
+    "ma_name": "Amherst",
+    "fl_name": "Altamonte Springs"
+  },
+  "andover-ma": {
+    "fl_slug": "altha-fl",
+    "ma_name": "Andover",
+    "fl_name": "Altha"
+  },
+  "aquinnah-ma": {
+    "fl_slug": "alton-fl",
+    "ma_name": "Aquinnah",
+    "fl_name": "Alton"
+  },
+  "arlington-ma": {
+    "fl_slug": "altoona-fl",
+    "ma_name": "Arlington",
+    "fl_name": "Altoona"
+  },
+  "ashburnham-ma": {
+    "fl_slug": "alturas-fl",
+    "ma_name": "Ashburnham",
+    "fl_name": "Alturas"
+  },
+  "ashby-ma": {
+    "fl_slug": "alva-fl",
+    "ma_name": "Ashby",
+    "fl_name": "Alva"
+  },
+  "ashfield-ma": {
+    "fl_slug": "amelia-city-fl",
+    "ma_name": "Ashfield",
+    "fl_name": "Amelia City"
+  },
+  "ashland-ma": {
+    "fl_slug": "american-beach-fl",
+    "ma_name": "Ashland",
+    "fl_name": "American Beach"
+  },
+  "athol-ma": {
+    "fl_slug": "andrews-fl",
+    "ma_name": "Athol",
+    "fl_name": "Andrews"
+  },
+  "attleboro-ma": {
+    "fl_slug": "ankona-fl",
+    "ma_name": "Attleboro",
+    "fl_name": "Ankona"
+  },
+  "auburn-ma": {
+    "fl_slug": "anna-maria-fl",
+    "ma_name": "Auburn",
+    "fl_name": "Anna Maria"
+  },
+  "avon-ma": {
+    "fl_slug": "anthony-fl",
+    "ma_name": "Avon",
+    "fl_name": "Anthony"
+  },
+  "ayer-ma": {
+    "fl_slug": "apalachicola-fl",
+    "ma_name": "Ayer",
+    "fl_name": "Apalachicola"
+  },
+  "barre-ma": {
+    "fl_slug": "apollo-beach-fl",
+    "ma_name": "Barre",
+    "fl_name": "Apollo Beach"
+  },
+  "becket-ma": {
+    "fl_slug": "apopka-fl",
+    "ma_name": "Becket",
+    "fl_name": "Apopka"
+  },
+  "bedford-ma": {
+    "fl_slug": "arcadia-fl",
+    "ma_name": "Bedford",
+    "fl_name": "Arcadia"
+  },
+  "belchertown-ma": {
+    "fl_slug": "archer-fl",
+    "ma_name": "Belchertown",
+    "fl_name": "Archer"
+  },
+  "bellingham-ma": {
+    "fl_slug": "ariel-fl",
+    "ma_name": "Bellingham",
+    "fl_name": "Ariel"
+  },
+  "belmont-ma": {
+    "fl_slug": "aripeka-fl",
+    "ma_name": "Belmont",
+    "fl_name": "Aripeka"
+  },
+  "berkley-ma": {
+    "fl_slug": "armstrong-fl",
+    "ma_name": "Berkley",
+    "fl_name": "Armstrong"
+  },
+  "berlin-ma": {
+    "fl_slug": "arredondo-fl",
+    "ma_name": "Berlin",
+    "fl_name": "Arredondo"
+  },
+  "bernardston-ma": {
+    "fl_slug": "asbury-lake-fl",
+    "ma_name": "Bernardston",
+    "fl_name": "Asbury Lake"
+  },
+  "beverly-ma": {
+    "fl_slug": "ashville-fl",
+    "ma_name": "Beverly",
+    "fl_name": "Ashville"
+  },
+  "billerica-ma": {
+    "fl_slug": "astatula-fl",
+    "ma_name": "Billerica",
+    "fl_name": "Astatula"
+  },
+  "blackstone-ma": {
+    "fl_slug": "astor-fl",
+    "ma_name": "Blackstone",
+    "fl_name": "Astor"
+  },
+  "blandford-ma": {
+    "fl_slug": "astor-park-fl",
+    "ma_name": "Blandford",
+    "fl_name": "Astor Park"
+  },
+  "bolton-ma": {
+    "fl_slug": "athena-fl",
+    "ma_name": "Bolton",
+    "fl_name": "Athena"
+  },
+  "bourne-ma": {
+    "fl_slug": "atlantic-beach-fl",
+    "ma_name": "Bourne",
+    "fl_name": "Atlantic Beach"
+  },
+  "boxborough-ma": {
+    "fl_slug": "atlantis-fl",
+    "ma_name": "Boxborough",
+    "fl_name": "Atlantis"
+  },
+  "boxford-ma": {
+    "fl_slug": "auburn-fl",
+    "ma_name": "Boxford",
+    "fl_name": "Auburn"
+  },
+  "boylston-ma": {
+    "fl_slug": "auburndale-fl",
+    "ma_name": "Boylston",
+    "fl_name": "Auburndale"
+  },
+  "braintree-ma": {
+    "fl_slug": "aucilla-fl",
+    "ma_name": "Braintree",
+    "fl_name": "Aucilla"
+  },
+  "brewster-ma": {
+    "fl_slug": "avalon-beach-fl",
+    "ma_name": "Brewster",
+    "fl_name": "Avalon Beach"
+  },
+  "bridgewater-ma": {
+    "fl_slug": "aventura-fl",
+    "ma_name": "Bridgewater",
+    "fl_name": "Aventura"
+  },
+  "brimfield-ma": {
+    "fl_slug": "avon-park-fl",
+    "ma_name": "Brimfield",
+    "fl_name": "Avon Park"
+  },
+  "brockton-ma": {
+    "fl_slug": "azalea-park-fl",
+    "ma_name": "Brockton",
+    "fl_name": "Azalea Park"
+  },
+  "brookfield-ma": {
+    "fl_slug": "babson-park-fl",
+    "ma_name": "Brookfield",
+    "fl_name": "Babson Park"
+  },
+  "buckland-ma": {
+    "fl_slug": "bagdad-fl",
+    "ma_name": "Buckland",
+    "fl_name": "Bagdad"
+  },
+  "burlington-ma": {
+    "fl_slug": "baker-fl",
+    "ma_name": "Burlington",
+    "fl_name": "Baker"
+  },
+  "canton-ma": {
+    "fl_slug": "bakers-mill-fl",
+    "ma_name": "Canton",
+    "fl_name": "Bakers Mill"
+  },
+  "carlisle-ma": {
+    "fl_slug": "bal-harbour-fl",
+    "ma_name": "Carlisle",
+    "fl_name": "Bal Harbour"
+  },
+  "carver-ma": {
+    "fl_slug": "baldwin-fl",
+    "ma_name": "Carver",
+    "fl_name": "Baldwin"
+  },
+  "charlemont-ma": {
+    "fl_slug": "balm-fl",
+    "ma_name": "Charlemont",
+    "fl_name": "Balm"
+  },
+  "charlton-ma": {
+    "fl_slug": "barberville-fl",
+    "ma_name": "Charlton",
+    "fl_name": "Barberville"
+  },
+  "chatham-ma": {
+    "fl_slug": "barrineau-park-fl",
+    "ma_name": "Chatham",
+    "fl_name": "Barrineau Park"
+  },
+  "chelmsford-ma": {
+    "fl_slug": "bartow-fl",
+    "ma_name": "Chelmsford",
+    "fl_name": "Bartow"
+  },
+  "chelsea-ma": {
+    "fl_slug": "bascom-fl",
+    "ma_name": "Chelsea",
+    "fl_name": "Bascom"
+  },
+  "cheshire-ma": {
+    "fl_slug": "basinger-fl",
+    "ma_name": "Cheshire",
+    "fl_name": "Basinger"
+  },
+  "chester-ma": {
+    "fl_slug": "baskin-fl",
+    "ma_name": "Chester",
+    "fl_name": "Baskin"
+  },
+  "chesterfield-ma": {
+    "fl_slug": "bassville-park-fl",
+    "ma_name": "Chesterfield",
+    "fl_name": "Bassville Park"
+  },
+  "chicopee-ma": {
+    "fl_slug": "bay-harbor-islands-fl",
+    "ma_name": "Chicopee",
+    "fl_name": "Bay Harbor Islands"
+  },
+  "chilmark-ma": {
+    "fl_slug": "bay-hill-fl",
+    "ma_name": "Chilmark",
+    "fl_name": "Bay Hill"
+  },
+  "clarksburg-ma": {
+    "fl_slug": "bay-lake-fl",
+    "ma_name": "Clarksburg",
+    "fl_name": "Bay Lake"
+  },
+  "clinton-ma": {
+    "fl_slug": "bay-pines-fl",
+    "ma_name": "Clinton",
+    "fl_name": "Bay Pines"
+  },
+  "cohasset-ma": {
+    "fl_slug": "bayonet-point-fl",
+    "ma_name": "Cohasset",
+    "fl_name": "Bayonet Point"
+  },
+  "colrain-ma": {
+    "fl_slug": "bayou-george-fl",
+    "ma_name": "Colrain",
+    "fl_name": "Bayou George"
+  },
+  "concord-ma": {
+    "fl_slug": "bayport-fl",
+    "ma_name": "Concord",
+    "fl_name": "Bayport"
+  },
+  "conway-ma": {
+    "fl_slug": "bayshore-fl",
+    "ma_name": "Conway",
+    "fl_name": "Bayshore"
+  },
+  "cummington-ma": {
+    "fl_slug": "bayshore-gardens-fl",
+    "ma_name": "Cummington",
+    "fl_name": "Bayshore Gardens"
+  },
+  "dalton-ma": {
+    "fl_slug": "beacon-hill-fl",
+    "ma_name": "Dalton",
+    "fl_name": "Beacon Hill"
+  },
+  "danvers-ma": {
+    "fl_slug": "beacon-square-fl",
+    "ma_name": "Danvers",
+    "fl_name": "Beacon Square"
+  },
+  "dartmouth-ma": {
+    "fl_slug": "becker-fl",
+    "ma_name": "Dartmouth",
+    "fl_name": "Becker"
+  },
+  "dedham-ma": {
+    "fl_slug": "bee-ridge-fl",
+    "ma_name": "Dedham",
+    "fl_name": "Bee Ridge"
+  },
+  "deerfield-ma": {
+    "fl_slug": "bell-fl",
+    "ma_name": "Deerfield",
+    "fl_name": "Bell"
+  },
+  "dennis-ma": {
+    "fl_slug": "belle-glade-fl",
+    "ma_name": "Dennis",
+    "fl_name": "Belle Glade"
+  },
+  "dighton-ma": {
+    "fl_slug": "belle-isle-fl",
+    "ma_name": "Dighton",
+    "fl_name": "Belle Isle"
+  },
+  "douglas-ma": {
+    "fl_slug": "belleair-beach-fl",
+    "ma_name": "Douglas",
+    "fl_name": "Belleair Beach"
+  },
+  "dover-ma": {
+    "fl_slug": "belleair-bluffs-fl",
+    "ma_name": "Dover",
+    "fl_name": "Belleair Bluffs"
+  },
+  "dracut-ma": {
+    "fl_slug": "belleair-fl",
+    "ma_name": "Dracut",
+    "fl_name": "Belleair"
+  },
+  "dudley-ma": {
+    "fl_slug": "belleair-shores-fl",
+    "ma_name": "Dudley",
+    "fl_name": "Belleair Shores"
+  },
+  "dunstable-ma": {
+    "fl_slug": "belleview-fl",
+    "ma_name": "Dunstable",
+    "fl_name": "Belleview"
+  },
+  "duxbury-ma": {
+    "fl_slug": "bellview-fl",
+    "ma_name": "Duxbury",
+    "fl_name": "Bellview"
+  },
+  "east-bridgewater-ma": {
+    "fl_slug": "bellwood-fl",
+    "ma_name": "East Bridgewater",
+    "fl_name": "Bellwood"
+  },
+  "east-brookfield-ma": {
+    "fl_slug": "bereah-fl",
+    "ma_name": "East Brookfield",
+    "fl_name": "Bereah"
+  },
+  "east-longmeadow-ma": {
+    "fl_slug": "berkeley-fl",
+    "ma_name": "East Longmeadow",
+    "fl_name": "Berkeley"
+  },
+  "eastham-ma": {
+    "fl_slug": "berrydale-fl",
+    "ma_name": "Eastham",
+    "fl_name": "Berrydale"
+  },
+  "easthampton-ma": {
+    "fl_slug": "beverly-beach-fl",
+    "ma_name": "Easthampton",
+    "fl_name": "Beverly Beach"
+  },
+  "easton-ma": {
+    "fl_slug": "beverly-hills-fl",
+    "ma_name": "Easton",
+    "fl_name": "Beverly Hills"
+  },
+  "edgartown-ma": {
+    "fl_slug": "big-coppitt-key-fl",
+    "ma_name": "Edgartown",
+    "fl_name": "Big Coppitt Key"
+  },
+  "egremont-ma": {
+    "fl_slug": "big-pine-key-fl",
+    "ma_name": "Egremont",
+    "fl_name": "Big Pine Key"
+  },
+  "erving-ma": {
+    "fl_slug": "biscayne-park-fl",
+    "ma_name": "Erving",
+    "fl_name": "Biscayne Park"
+  },
+  "essex-ma": {
+    "fl_slug": "bithlo-fl",
+    "ma_name": "Essex",
+    "fl_name": "Bithlo"
+  },
+  "everett-ma": {
+    "fl_slug": "black-diamond-fl",
+    "ma_name": "Everett",
+    "fl_name": "Black Diamond"
+  },
+  "fairhaven-ma": {
+    "fl_slug": "blackman-fl",
+    "ma_name": "Fairhaven",
+    "fl_name": "Blackman"
+  },
+  "fall-river-ma": {
+    "fl_slug": "blanton-fl",
+    "ma_name": "Fall River",
+    "fl_name": "Blanton"
+  },
+  "falmouth-ma": {
+    "fl_slug": "bloomingdale-fl",
+    "ma_name": "Falmouth",
+    "fl_name": "Bloomingdale"
+  },
+  "fitchburg-ma": {
+    "fl_slug": "blountstown-fl",
+    "ma_name": "Fitchburg",
+    "fl_name": "Blountstown"
+  },
+  "florida-ma": {
+    "fl_slug": "blue-mountain-beach-fl",
+    "ma_name": "Florida",
+    "fl_name": "Blue Mountain Beach"
+  },
+  "foxborough-ma": {
+    "fl_slug": "bluff-springs-fl",
+    "ma_name": "Foxborough",
+    "fl_name": "Bluff Springs"
+  },
+  "framingham-ma": {
+    "fl_slug": "boca-grande-fl",
+    "ma_name": "Framingham",
+    "fl_name": "Boca Grande"
+  },
+  "franklin-ma": {
+    "fl_slug": "boca-raton-fl",
+    "ma_name": "Franklin",
+    "fl_name": "Boca Raton"
+  },
+  "freetown-ma": {
+    "fl_slug": "bogia-fl",
+    "ma_name": "Freetown",
+    "fl_name": "Bogia"
+  },
+  "gardner-ma": {
+    "fl_slug": "bokeelia-fl",
+    "ma_name": "Gardner",
+    "fl_name": "Bokeelia"
+  },
+  "georgetown-ma": {
+    "fl_slug": "bonifay-fl",
+    "ma_name": "Georgetown",
+    "fl_name": "Bonifay"
+  },
+  "gill-ma": {
+    "fl_slug": "bonita-springs-fl",
+    "ma_name": "Gill",
+    "fl_name": "Bonita Springs"
+  },
+  "gloucester-ma": {
+    "fl_slug": "bostwick-fl",
+    "ma_name": "Gloucester",
+    "fl_name": "Bostwick"
+  },
+  "goshen-ma": {
+    "fl_slug": "boulevard-gardens-fl",
+    "ma_name": "Goshen",
+    "fl_name": "Boulevard Gardens"
+  },
+  "gosnold-ma": {
+    "fl_slug": "boulogne-fl",
+    "ma_name": "Gosnold",
+    "fl_name": "Boulogne"
+  },
+  "grafton-ma": {
+    "fl_slug": "bowling-green-fl",
+    "ma_name": "Grafton",
+    "fl_name": "Bowling Green"
+  },
+  "granby-ma": {
+    "fl_slug": "boyd-fl",
+    "ma_name": "Granby",
+    "fl_name": "Boyd"
+  },
+  "granville-ma": {
+    "fl_slug": "boynton-beach-fl",
+    "ma_name": "Granville",
+    "fl_name": "Boynton Beach"
+  },
+  "great-barrington-ma": {
+    "fl_slug": "bradenton-beach-fl",
+    "ma_name": "Great Barrington",
+    "fl_name": "Bradenton Beach"
+  },
+  "greenfield-ma": {
+    "fl_slug": "bradenton-fl",
+    "ma_name": "Greenfield",
+    "fl_name": "Bradenton"
+  },
+  "groton-ma": {
+    "fl_slug": "bradfordville-fl",
+    "ma_name": "Groton",
+    "fl_name": "Bradfordville"
+  },
+  "groveland-ma": {
+    "fl_slug": "bradley-junction-fl",
+    "ma_name": "Groveland",
+    "fl_name": "Bradley Junction"
+  },
+  "hadley-ma": {
+    "fl_slug": "brandon-fl",
+    "ma_name": "Hadley",
+    "fl_name": "Brandon"
+  },
+  "halifax-ma": {
+    "fl_slug": "branford-fl",
+    "ma_name": "Halifax",
+    "fl_name": "Branford"
+  },
+  "hamilton-ma": {
+    "fl_slug": "bratt-fl",
+    "ma_name": "Hamilton",
+    "fl_name": "Bratt"
+  },
+  "hampden-ma": {
+    "fl_slug": "brent-fl",
+    "ma_name": "Hampden",
+    "fl_name": "Brent"
+  },
+  "hancock-ma": {
+    "fl_slug": "brighton-fl",
+    "ma_name": "Hancock",
+    "fl_name": "Brighton"
+  },
+  "hanover-ma": {
+    "fl_slug": "briny-breezes-fl",
+    "ma_name": "Hanover",
+    "fl_name": "Briny Breezes"
+  },
+  "hanson-ma": {
+    "fl_slug": "bristol-fl",
+    "ma_name": "Hanson",
+    "fl_name": "Bristol"
+  },
+  "hardwick-ma": {
+    "fl_slug": "broadview-park-fl",
+    "ma_name": "Hardwick",
+    "fl_name": "Broadview Park"
+  },
+  "harvard-ma": {
+    "fl_slug": "bronson-fl",
+    "ma_name": "Harvard",
+    "fl_name": "Bronson"
+  },
+  "harwich-ma": {
+    "fl_slug": "brooker-fl",
+    "ma_name": "Harwich",
+    "fl_name": "Brooker"
+  },
+  "hatfield-ma": {
+    "fl_slug": "brookridge-fl",
+    "ma_name": "Hatfield",
+    "fl_name": "Brookridge"
+  },
+  "haverhill-ma": {
+    "fl_slug": "brooksville-fl",
+    "ma_name": "Haverhill",
+    "fl_name": "Brooksville"
+  },
+  "hawley-ma": {
+    "fl_slug": "browardale-fl",
+    "ma_name": "Hawley",
+    "fl_name": "Browardale"
+  },
+  "heath-ma": {
+    "fl_slug": "brownsdale-fl",
+    "ma_name": "Heath",
+    "fl_name": "Brownsdale"
+  },
+  "hingham-ma": {
+    "fl_slug": "brownsville-fl",
+    "ma_name": "Hingham",
+    "fl_name": "Brownsville"
+  },
+  "hinsdale-ma": {
+    "fl_slug": "bruce-fl",
+    "ma_name": "Hinsdale",
+    "fl_name": "Bruce"
+  },
+  "holbrook-ma": {
+    "fl_slug": "bryceville-fl",
+    "ma_name": "Holbrook",
+    "fl_name": "Bryceville"
+  },
+  "holden-ma": {
+    "fl_slug": "buckhead-ridge-fl",
+    "ma_name": "Holden",
+    "fl_name": "Buckhead Ridge"
+  },
+  "holland-ma": {
+    "fl_slug": "buckingham-fl",
+    "ma_name": "Holland",
+    "fl_name": "Buckingham"
+  },
+  "holliston-ma": {
+    "fl_slug": "buenaventura-lakes-fl",
+    "ma_name": "Holliston",
+    "fl_name": "Buenaventura Lakes"
+  },
+  "holyoke-ma": {
+    "fl_slug": "bunnell-fl",
+    "ma_name": "Holyoke",
+    "fl_name": "Bunnell"
+  },
+  "hopedale-ma": {
+    "fl_slug": "burnt-store-marina-fl",
+    "ma_name": "Hopedale",
+    "fl_name": "Burnt Store Marina"
+  },
+  "hopkinton-ma": {
+    "fl_slug": "bushnell-fl",
+    "ma_name": "Hopkinton",
+    "fl_name": "Bushnell"
+  },
+  "hubbardston-ma": {
+    "fl_slug": "butler-beach-fl",
+    "ma_name": "Hubbardston",
+    "fl_name": "Butler Beach"
+  },
+  "hudson-ma": {
+    "fl_slug": "callahan-fl",
+    "ma_name": "Hudson",
+    "fl_name": "Callahan"
+  },
+  "hull-ma": {
+    "fl_slug": "callaway-fl",
+    "ma_name": "Hull",
+    "fl_name": "Callaway"
+  },
+  "huntington-ma": {
+    "fl_slug": "campbell-fl",
+    "ma_name": "Huntington",
+    "fl_name": "Campbell"
+  },
+  "ipswich-ma": {
+    "fl_slug": "campbellton-fl",
+    "ma_name": "Ipswich",
+    "fl_name": "Campbellton"
+  },
+  "kingston-ma": {
+    "fl_slug": "campton-fl",
+    "ma_name": "Kingston",
+    "fl_name": "Campton"
+  },
+  "lakeville-ma": {
+    "fl_slug": "campville-fl",
+    "ma_name": "Lakeville",
+    "fl_name": "Campville"
+  },
+  "lancaster-ma": {
+    "fl_slug": "canal-point-fl",
+    "ma_name": "Lancaster",
+    "fl_name": "Canal Point"
+  },
+  "lanesborough-ma": {
+    "fl_slug": "candler-fl",
+    "ma_name": "Lanesborough",
+    "fl_name": "Candler"
+  },
+  "lawrence-ma": {
+    "fl_slug": "cannon-town-fl",
+    "ma_name": "Lawrence",
+    "fl_name": "Cannon Town"
+  },
+  "lee-ma": {
+    "fl_slug": "cantonment-fl",
+    "ma_name": "Lee",
+    "fl_name": "Cantonment"
+  },
+  "leicester-ma": {
+    "fl_slug": "cape-canaveral-fl",
+    "ma_name": "Leicester",
+    "fl_name": "Cape Canaveral"
+  },
+  "lenox-ma": {
+    "fl_slug": "capitola-fl",
+    "ma_name": "Lenox",
+    "fl_name": "Capitola"
+  },
+  "leominster-ma": {
+    "fl_slug": "capps-fl",
+    "ma_name": "Leominster",
+    "fl_name": "Capps"
+  },
+  "leverett-ma": {
+    "fl_slug": "captiva-fl",
+    "ma_name": "Leverett",
+    "fl_name": "Captiva"
+  },
+  "lexington-ma": {
+    "fl_slug": "carrabelle-fl",
+    "ma_name": "Lexington",
+    "fl_name": "Carrabelle"
+  },
+  "leyden-ma": {
+    "fl_slug": "carrollwood-fl",
+    "ma_name": "Leyden",
+    "fl_name": "Carrollwood"
+  },
+  "lincoln-ma": {
+    "fl_slug": "caryville-fl",
+    "ma_name": "Lincoln",
+    "fl_name": "Caryville"
+  },
+  "littleton-ma": {
+    "fl_slug": "cassadaga-fl",
+    "ma_name": "Littleton",
+    "fl_name": "Cassadaga"
+  },
+  "longmeadow-ma": {
+    "fl_slug": "casselberry-fl",
+    "ma_name": "Longmeadow",
+    "fl_name": "Casselberry"
+  },
+  "ludlow-ma": {
+    "fl_slug": "cedar-grove-fl",
+    "ma_name": "Ludlow",
+    "fl_name": "Cedar Grove"
+  },
+  "lunenburg-ma": {
+    "fl_slug": "cedar-key-fl",
+    "ma_name": "Lunenburg",
+    "fl_name": "Cedar Key"
+  },
+  "lynnfield-ma": {
+    "fl_slug": "celebration-fl",
+    "ma_name": "Lynnfield",
+    "fl_name": "Celebration"
+  },
+  "malden-ma": {
+    "fl_slug": "center-hill-fl",
+    "ma_name": "Malden",
+    "fl_name": "Center Hill"
+  },
+  "manchester-by-the-sea-ma": {
+    "fl_slug": "century-fl",
+    "ma_name": "Manchester By The Sea",
+    "fl_name": "Century"
+  },
+  "mansfield-ma": {
+    "fl_slug": "chaires-fl",
+    "ma_name": "Mansfield",
+    "fl_name": "Chaires"
+  },
+  "marblehead-ma": {
+    "fl_slug": "charleston-park-fl",
+    "ma_name": "Marblehead",
+    "fl_name": "Charleston Park"
+  },
+  "marion-ma": {
+    "fl_slug": "charlotte-harbor-fl",
+    "ma_name": "Marion",
+    "fl_name": "Charlotte Harbor"
+  },
+  "marlborough-ma": {
+    "fl_slug": "charlotte-park-fl",
+    "ma_name": "Marlborough",
+    "fl_name": "Charlotte Park"
+  },
+  "marshfield-ma": {
+    "fl_slug": "chassahowitzka-fl",
+    "ma_name": "Marshfield",
+    "fl_name": "Chassahowitzka"
+  },
+  "mashpee-ma": {
+    "fl_slug": "chattahoochee-fl",
+    "ma_name": "Mashpee",
+    "fl_name": "Chattahoochee"
+  },
+  "mattapoisett-ma": {
+    "fl_slug": "cheval-fl",
+    "ma_name": "Mattapoisett",
+    "fl_name": "Cheval"
+  },
+  "maynard-ma": {
+    "fl_slug": "chiefland-fl",
+    "ma_name": "Maynard",
+    "fl_name": "Chiefland"
+  },
+  "medfield-ma": {
+    "fl_slug": "chipley-fl",
+    "ma_name": "Medfield",
+    "fl_name": "Chipley"
+  },
+  "medford-ma": {
+    "fl_slug": "chokoloskee-fl",
+    "ma_name": "Medford",
+    "fl_name": "Chokoloskee"
+  },
+  "medway-ma": {
+    "fl_slug": "christmas-fl",
+    "ma_name": "Medway",
+    "fl_name": "Christmas"
+  },
+  "melrose-ma": {
+    "fl_slug": "chuluota-fl",
+    "ma_name": "Melrose",
+    "fl_name": "Chuluota"
+  },
+  "mendon-ma": {
+    "fl_slug": "chumuckla-fl",
+    "ma_name": "Mendon",
+    "fl_name": "Chumuckla"
+  },
+  "merrimac-ma": {
+    "fl_slug": "cinco-bayou-fl",
+    "ma_name": "Merrimac",
+    "fl_name": "Cinco Bayou"
+  },
+  "methuen-ma": {
+    "fl_slug": "citra-fl",
+    "ma_name": "Methuen",
+    "fl_name": "Citra"
+  },
+  "middleborough-ma": {
+    "fl_slug": "citrus-hills-fl",
+    "ma_name": "Middleborough",
+    "fl_name": "Citrus Hills"
+  },
+  "middlefield-ma": {
+    "fl_slug": "citrus-park-fl",
+    "ma_name": "Middlefield",
+    "fl_name": "Citrus Park"
+  },
+  "middleton-ma": {
+    "fl_slug": "citrus-springs-fl",
+    "ma_name": "Middleton",
+    "fl_name": "Citrus Springs"
+  },
+  "milford-ma": {
+    "fl_slug": "clarcona-fl",
+    "ma_name": "Milford",
+    "fl_name": "Clarcona"
+  },
+  "millbury-ma": {
+    "fl_slug": "clark-fl",
+    "ma_name": "Millbury",
+    "fl_name": "Clark"
+  },
+  "millis-ma": {
+    "fl_slug": "clear-springs-fl",
+    "ma_name": "Millis",
+    "fl_name": "Clear Springs"
+  },
+  "millville-ma": {
+    "fl_slug": "clearwater-fl",
+    "ma_name": "Millville",
+    "fl_name": "Clearwater"
+  },
+  "milton-ma": {
+    "fl_slug": "clermont-fl",
+    "ma_name": "Milton",
+    "fl_name": "Clermont"
+  },
+  "monroe-ma": {
+    "fl_slug": "cleveland-fl",
+    "ma_name": "Monroe",
+    "fl_name": "Cleveland"
+  },
+  "monson-ma": {
+    "fl_slug": "clewiston-fl",
+    "ma_name": "Monson",
+    "fl_name": "Clewiston"
+  },
+  "montague-ma": {
+    "fl_slug": "cloud-lake-fl",
+    "ma_name": "Montague",
+    "fl_name": "Cloud Lake"
+  },
+  "monterey-ma": {
+    "fl_slug": "cobbtown-fl",
+    "ma_name": "Monterey",
+    "fl_name": "Cobbtown"
+  },
+  "montgomery-ma": {
+    "fl_slug": "cocoa-beach-fl",
+    "ma_name": "Montgomery",
+    "fl_name": "Cocoa Beach"
+  },
+  "mt-washington-ma": {
+    "fl_slug": "cocoa-fl",
+    "ma_name": "Mt Washington",
+    "fl_name": "Cocoa"
+  },
+  "nahant-ma": {
+    "fl_slug": "coconut-creek-fl",
+    "ma_name": "Nahant",
+    "fl_name": "Coconut Creek"
+  },
+  "nantucket-ma": {
+    "fl_slug": "coconut-fl",
+    "ma_name": "Nantucket",
+    "fl_name": "Coconut"
+  },
+  "natick-ma": {
+    "fl_slug": "coleman-fl",
+    "ma_name": "Natick",
+    "fl_name": "Coleman"
+  },
+  "needham-ma": {
+    "fl_slug": "columbia-fl",
+    "ma_name": "Needham",
+    "fl_name": "Columbia"
+  },
+  "new-ashford-ma": {
+    "fl_slug": "combee-settlement-fl",
+    "ma_name": "New Ashford",
+    "fl_name": "Combee Settlement"
+  },
+  "new-bedford-ma": {
+    "fl_slug": "compass-lake-fl",
+    "ma_name": "New Bedford",
+    "fl_name": "Compass Lake"
+  },
+  "new-braintree-ma": {
+    "fl_slug": "conway-fl",
+    "ma_name": "New Braintree",
+    "fl_name": "Conway"
+  },
+  "new-marlborough-ma": {
+    "fl_slug": "cooks-hammock-fl",
+    "ma_name": "New Marlborough",
+    "fl_name": "Cooks Hammock"
+  },
+  "new-salem-ma": {
+    "fl_slug": "cooper-city-fl",
+    "ma_name": "New Salem",
+    "fl_name": "Cooper City"
+  },
+  "newbury-ma": {
+    "fl_slug": "copeland-fl",
+    "ma_name": "Newbury",
+    "fl_name": "Copeland"
+  },
+  "newburyport-ma": {
+    "fl_slug": "coral-gables-fl",
+    "ma_name": "Newburyport",
+    "fl_name": "Coral Gables"
+  },
+  "norfolk-ma": {
+    "fl_slug": "coral-terrace-fl",
+    "ma_name": "Norfolk",
+    "fl_name": "Coral Terrace"
+  },
+  "north-adams-ma": {
+    "fl_slug": "cornwell-fl",
+    "ma_name": "North Adams",
+    "fl_name": "Cornwell"
+  },
+  "north-andover-ma": {
+    "fl_slug": "cortez-fl",
+    "ma_name": "North Andover",
+    "fl_name": "Cortez"
+  },
+  "north-attleborough-ma": {
+    "fl_slug": "cottage-hill-fl",
+    "ma_name": "North Attleborough",
+    "fl_name": "Cottage Hill"
+  },
+  "north-brookfield-ma": {
+    "fl_slug": "cottondale-fl",
+    "ma_name": "North Brookfield",
+    "fl_name": "Cottondale"
+  },
+  "north-reading-ma": {
+    "fl_slug": "country-club-fl",
+    "ma_name": "North Reading",
+    "fl_name": "Country Club"
+  },
+  "northampton-ma": {
+    "fl_slug": "country-walk-fl",
+    "ma_name": "Northampton",
+    "fl_name": "Country Walk"
+  },
+  "northborough-ma": {
+    "fl_slug": "crawfordville-fl",
+    "ma_name": "Northborough",
+    "fl_name": "Crawfordville"
+  },
+  "northbridge-ma": {
+    "fl_slug": "creels-fl",
+    "ma_name": "Northbridge",
+    "fl_name": "Creels"
+  },
+  "northfield-ma": {
+    "fl_slug": "crescent-beach-fl",
+    "ma_name": "Northfield",
+    "fl_name": "Crescent Beach"
+  },
+  "norton-ma": {
+    "fl_slug": "crescent-city-fl",
+    "ma_name": "Norton",
+    "fl_name": "Crescent City"
+  },
+  "norwell-ma": {
+    "fl_slug": "crestview-fl",
+    "ma_name": "Norwell",
+    "fl_name": "Crestview"
+  },
+  "norwood-ma": {
+    "fl_slug": "crooked-lake-park-fl",
+    "ma_name": "Norwood",
+    "fl_name": "Crooked Lake Park"
+  },
+  "oak-bluffs-ma": {
+    "fl_slug": "cross-city-fl",
+    "ma_name": "Oak Bluffs",
+    "fl_name": "Cross City"
+  },
+  "oakham-ma": {
+    "fl_slug": "crows-bluff-fl",
+    "ma_name": "Oakham",
+    "fl_name": "Crows Bluff"
+  },
+  "orange-ma": {
+    "fl_slug": "crystal-beach-fl",
+    "ma_name": "Orange",
+    "fl_name": "Crystal Beach"
+  },
+  "orleans-ma": {
+    "fl_slug": "crystal-lake-fl",
+    "ma_name": "Orleans",
+    "fl_name": "Crystal Lake"
+  },
+  "otis-ma": {
+    "fl_slug": "crystal-river-fl",
+    "ma_name": "Otis",
+    "fl_name": "Crystal River"
+  },
+  "oxford-ma": {
+    "fl_slug": "crystal-springs-fl",
+    "ma_name": "Oxford",
+    "fl_name": "Crystal Springs"
+  },
+  "palmer-ma": {
+    "fl_slug": "cudjoe-key-fl",
+    "ma_name": "Palmer",
+    "fl_name": "Cudjoe Key"
+  },
+  "paxton-ma": {
+    "fl_slug": "curlew-fl",
+    "ma_name": "Paxton",
+    "fl_name": "Curlew"
+  },
+  "peabody-ma": {
+    "fl_slug": "cutler-bay-fl",
+    "ma_name": "Peabody",
+    "fl_name": "Cutler Bay"
+  },
+  "pelham-ma": {
+    "fl_slug": "cypress-fl",
+    "ma_name": "Pelham",
+    "fl_name": "Cypress"
+  },
+  "pembroke-ma": {
+    "fl_slug": "cypress-gardens-fl",
+    "ma_name": "Pembroke",
+    "fl_name": "Cypress Gardens"
+  },
+  "pepperell-ma": {
+    "fl_slug": "cypress-lake-fl",
+    "ma_name": "Pepperell",
+    "fl_name": "Cypress Lake"
+  },
+  "peru-ma": {
+    "fl_slug": "cypress-quarters-fl",
+    "ma_name": "Peru",
+    "fl_name": "Cypress Quarters"
+  },
+  "petersham-ma": {
+    "fl_slug": "dade-city-fl",
+    "ma_name": "Petersham",
+    "fl_name": "Dade City"
+  },
+  "phillipston-ma": {
+    "fl_slug": "dalkeith-fl",
+    "ma_name": "Phillipston",
+    "fl_name": "Dalkeith"
+  },
+  "pittsfield-ma": {
+    "fl_slug": "dallas-fl",
+    "ma_name": "Pittsfield",
+    "fl_name": "Dallas"
+  },
+  "plainfield-ma": {
+    "fl_slug": "dania-beach-fl",
+    "ma_name": "Plainfield",
+    "fl_name": "Dania Beach"
+  },
+  "plainville-ma": {
+    "fl_slug": "darlington-fl",
+    "ma_name": "Plainville",
+    "fl_name": "Darlington"
+  },
+  "plympton-ma": {
+    "fl_slug": "davenport-fl",
+    "ma_name": "Plympton",
+    "fl_name": "Davenport"
+  },
+  "princeton-ma": {
+    "fl_slug": "davie-fl",
+    "ma_name": "Princeton",
+    "fl_name": "Davie"
+  },
+  "provincetown-ma": {
+    "fl_slug": "day-fl",
+    "ma_name": "Provincetown",
+    "fl_name": "Day"
+  },
+  "randolph-ma": {
+    "fl_slug": "daytona-beach-fl",
+    "ma_name": "Randolph",
+    "fl_name": "Daytona Beach"
+  },
+  "raynham-ma": {
+    "fl_slug": "daytona-beach-shores-fl",
+    "ma_name": "Raynham",
+    "fl_name": "Daytona Beach Shores"
+  },
+  "reading-ma": {
+    "fl_slug": "de-funiak-springs-fl",
+    "ma_name": "Reading",
+    "fl_name": "De Funiak Springs"
+  },
+  "rehoboth-ma": {
+    "fl_slug": "de-leon-springs-fl",
+    "ma_name": "Rehoboth",
+    "fl_name": "De Leon Springs"
+  },
+  "revere-ma": {
+    "fl_slug": "de-soto-city-fl",
+    "ma_name": "Revere",
+    "fl_name": "De Soto City"
+  },
+  "richmond-ma": {
+    "fl_slug": "debary-fl",
+    "ma_name": "Richmond",
+    "fl_name": "DeBary"
+  },
+  "rochester-ma": {
+    "fl_slug": "deer-park-fl",
+    "ma_name": "Rochester",
+    "fl_name": "Deer Park"
+  },
+  "rockland-ma": {
+    "fl_slug": "deerfield-beach-fl",
+    "ma_name": "Rockland",
+    "fl_name": "Deerfield Beach"
+  },
+  "rockport-ma": {
+    "fl_slug": "dekle-beach-fl",
+    "ma_name": "Rockport",
+    "fl_name": "Dekle Beach"
+  },
+  "rowe-ma": {
+    "fl_slug": "deland-fl",
+    "ma_name": "Rowe",
+    "fl_name": "DeLand"
+  },
+  "rowley-ma": {
+    "fl_slug": "dellwood-fl",
+    "ma_name": "Rowley",
+    "fl_name": "Dellwood"
+  },
+  "royalston-ma": {
+    "fl_slug": "delray-beach-fl",
+    "ma_name": "Royalston",
+    "fl_name": "Delray Beach"
+  },
+  "russell-ma": {
+    "fl_slug": "deltona-fl",
+    "ma_name": "Russell",
+    "fl_name": "Deltona"
+  },
+  "rutland-ma": {
+    "fl_slug": "denaud-fl",
+    "ma_name": "Rutland",
+    "fl_name": "Denaud"
+  },
+  "salem-ma": {
+    "fl_slug": "desoto-lakes-fl",
+    "ma_name": "Salem",
+    "fl_name": "Desoto Lakes"
+  },
+  "salisbury-ma": {
+    "fl_slug": "destin-fl",
+    "ma_name": "Salisbury",
+    "fl_name": "Destin"
+  },
+  "sandisfield-ma": {
+    "fl_slug": "dickerson-city-fl",
+    "ma_name": "Sandisfield",
+    "fl_name": "Dickerson City"
+  },
+  "sandwich-ma": {
+    "fl_slug": "dixonville-fl",
+    "ma_name": "Sandwich",
+    "fl_name": "Dixonville"
+  },
+  "saugus-ma": {
+    "fl_slug": "doctor-phillips-fl",
+    "ma_name": "Saugus",
+    "fl_name": "Doctor Phillips"
+  },
+  "savoy-ma": {
+    "fl_slug": "doctors-inlet-fl",
+    "ma_name": "Savoy",
+    "fl_name": "Doctors Inlet"
+  },
+  "scituate-ma": {
+    "fl_slug": "doral-fl",
+    "ma_name": "Scituate",
+    "fl_name": "Doral"
+  },
+  "seekonk-ma": {
+    "fl_slug": "dover-fl",
+    "ma_name": "Seekonk",
+    "fl_name": "Dover"
+  },
+  "sharon-ma": {
+    "fl_slug": "dowling-park-fl",
+    "ma_name": "Sharon",
+    "fl_name": "Dowling Park"
+  },
+  "sheffield-ma": {
+    "fl_slug": "drexel-fl",
+    "ma_name": "Sheffield",
+    "fl_name": "Drexel"
+  },
+  "shelburne-ma": {
+    "fl_slug": "drifton-fl",
+    "ma_name": "Shelburne",
+    "fl_name": "Drifton"
+  },
+  "sherborn-ma": {
+    "fl_slug": "duck-key-fl",
+    "ma_name": "Sherborn",
+    "fl_name": "Duck Key"
+  },
+  "shirley-ma": {
+    "fl_slug": "duette-fl",
+    "ma_name": "Shirley",
+    "fl_name": "Duette"
+  },
+  "shrewsbury-ma": {
+    "fl_slug": "dukes-fl",
+    "ma_name": "Shrewsbury",
+    "fl_name": "Dukes"
+  },
+  "shutesbury-ma": {
+    "fl_slug": "dundee-fl",
+    "ma_name": "Shutesbury",
+    "fl_name": "Dundee"
+  },
+  "somerset-ma": {
+    "fl_slug": "dunedin-fl",
+    "ma_name": "Somerset",
+    "fl_name": "Dunedin"
+  },
+  "somerville-ma": {
+    "fl_slug": "dunnellon-fl",
+    "ma_name": "Somerville",
+    "fl_name": "Dunnellon"
+  },
+  "south-hadley-ma": {
+    "fl_slug": "dupont-fl",
+    "ma_name": "South Hadley",
+    "fl_name": "Dupont"
+  },
+  "southampton-ma": {
+    "fl_slug": "durbin-fl",
+    "ma_name": "Southampton",
+    "fl_name": "Durbin"
+  },
+  "southborough-ma": {
+    "fl_slug": "eagle-lake-fl",
+    "ma_name": "Southborough",
+    "fl_name": "Eagle Lake"
+  },
+  "southbridge-ma": {
+    "fl_slug": "east-lake-fl",
+    "ma_name": "Southbridge",
+    "fl_name": "East Lake"
+  },
+  "southwick-ma": {
+    "fl_slug": "east-lake-weir-fl",
+    "ma_name": "Southwick",
+    "fl_name": "East Lake Weir"
+  },
+  "spencer-ma": {
+    "fl_slug": "east-milton-fl",
+    "ma_name": "Spencer",
+    "fl_name": "East Milton"
+  },
+  "sterling-ma": {
+    "fl_slug": "east-naples-fl",
+    "ma_name": "Sterling",
+    "fl_name": "East Naples"
+  },
+  "stockbridge-ma": {
+    "fl_slug": "east-palatka-fl",
+    "ma_name": "Stockbridge",
+    "fl_name": "East Palatka"
+  },
+  "stoneham-ma": {
+    "fl_slug": "eastpoint-fl",
+    "ma_name": "Stoneham",
+    "fl_name": "Eastpoint"
+  },
+  "stoughton-ma": {
+    "fl_slug": "eaton-park-fl",
+    "ma_name": "Stoughton",
+    "fl_name": "Eaton Park"
+  },
+  "stow-ma": {
+    "fl_slug": "eatonville-fl",
+    "ma_name": "Stow",
+    "fl_name": "Eatonville"
+  },
+  "sturbridge-ma": {
+    "fl_slug": "eau-gallie-fl",
+    "ma_name": "Sturbridge",
+    "fl_name": "Eau Gallie"
+  },
+  "sudbury-ma": {
+    "fl_slug": "ebro-fl",
+    "ma_name": "Sudbury",
+    "fl_name": "Ebro"
+  },
+  "sunderland-ma": {
+    "fl_slug": "econfina-fl",
+    "ma_name": "Sunderland",
+    "fl_name": "Econfina"
+  },
+  "sutton-ma": {
+    "fl_slug": "edgewater-fl",
+    "ma_name": "Sutton",
+    "fl_name": "Edgewater"
+  },
+  "swampscott-ma": {
+    "fl_slug": "edgewood-fl",
+    "ma_name": "Swampscott",
+    "fl_name": "Edgewood"
+  },
+  "swansea-ma": {
+    "fl_slug": "el-portal-fl",
+    "ma_name": "Swansea",
+    "fl_name": "El Portal"
+  },
+  "taunton-ma": {
+    "fl_slug": "eldridge-fl",
+    "ma_name": "Taunton",
+    "fl_name": "Eldridge"
+  },
+  "templeton-ma": {
+    "fl_slug": "elfers-fl",
+    "ma_name": "Templeton",
+    "fl_name": "Elfers"
+  },
+  "tewksbury-ma": {
+    "fl_slug": "ellaville-fl",
+    "ma_name": "Tewksbury",
+    "fl_name": "Ellaville"
+  },
+  "tisbury-ma": {
+    "fl_slug": "ellenton-fl",
+    "ma_name": "Tisbury",
+    "fl_name": "Ellenton"
+  },
+  "tolland-ma": {
+    "fl_slug": "ellzey-fl",
+    "ma_name": "Tolland",
+    "fl_name": "Ellzey"
+  },
+  "topsfield-ma": {
+    "fl_slug": "englewood-fl",
+    "ma_name": "Topsfield",
+    "fl_name": "Englewood"
+  },
+  "townsend-ma": {
+    "fl_slug": "ensley-fl",
+    "ma_name": "Townsend",
+    "fl_name": "Ensley"
+  },
+  "truro-ma": {
+    "fl_slug": "enterprise-fl",
+    "ma_name": "Truro",
+    "fl_name": "Enterprise"
+  },
+  "tyngsborough-ma": {
+    "fl_slug": "eridu-fl",
+    "ma_name": "Tyngsborough",
+    "fl_name": "Eridu"
+  },
+  "tyringham-ma": {
+    "fl_slug": "espanola-fl",
+    "ma_name": "Tyringham",
+    "fl_name": "Espanola"
+  },
+  "upton-ma": {
+    "fl_slug": "estero-fl",
+    "ma_name": "Upton",
+    "fl_name": "Estero"
+  },
+  "uxbridge-ma": {
+    "fl_slug": "esto-fl",
+    "ma_name": "Uxbridge",
+    "fl_name": "Esto"
+  },
+  "wakefield-ma": {
+    "fl_slug": "eucheeanna-fl",
+    "ma_name": "Wakefield",
+    "fl_name": "Eucheeanna"
+  },
+  "wales-ma": {
+    "fl_slug": "eureka-fl",
+    "ma_name": "Wales",
+    "fl_name": "Eureka"
+  },
+  "walpole-ma": {
+    "fl_slug": "eustis-fl",
+    "ma_name": "Walpole",
+    "fl_name": "Eustis"
+  },
+  "waltham-ma": {
+    "fl_slug": "eva-fl",
+    "ma_name": "Waltham",
+    "fl_name": "Eva"
+  },
+  "ware-ma": {
+    "fl_slug": "everglades-city-fl",
+    "ma_name": "Ware",
+    "fl_name": "Everglades City"
+  },
+  "wareham-ma": {
+    "fl_slug": "fairbanks-fl",
+    "ma_name": "Wareham",
+    "fl_name": "Fairbanks"
+  },
+  "warren-ma": {
+    "fl_slug": "fairview-shores-fl",
+    "ma_name": "Warren",
+    "fl_name": "Fairview Shores"
+  },
+  "warwick-ma": {
+    "fl_slug": "falmouth-fl",
+    "ma_name": "Warwick",
+    "fl_name": "Falmouth"
+  },
+  "washington-ma": {
+    "fl_slug": "fanning-springs-fl",
+    "ma_name": "Washington",
+    "fl_name": "Fanning Springs"
+  },
+  "watertown-ma": {
+    "fl_slug": "favoretta-fl",
+    "ma_name": "Watertown",
+    "fl_name": "Favoretta"
+  },
+  "wayland-ma": {
+    "fl_slug": "feather-sound-fl",
+    "ma_name": "Wayland",
+    "fl_name": "Feather Sound"
+  },
+  "webster-ma": {
+    "fl_slug": "fellsmere-fl",
+    "ma_name": "Webster",
+    "fl_name": "Fellsmere"
+  },
+  "wellesley-ma": {
+    "fl_slug": "fern-crest-village-fl",
+    "ma_name": "Wellesley",
+    "fl_name": "Fern Crest Village"
+  },
+  "wellfleet-ma": {
+    "fl_slug": "fern-park-fl",
+    "ma_name": "Wellfleet",
+    "fl_name": "Fern Park"
+  },
+  "wendell-ma": {
+    "fl_slug": "fernandina-beach-fl",
+    "ma_name": "Wendell",
+    "fl_name": "Fernandina Beach"
+  },
+  "wenham-ma": {
+    "fl_slug": "ferndale-fl",
+    "ma_name": "Wenham",
+    "fl_name": "Ferndale"
+  },
+  "west-boylston-ma": {
+    "fl_slug": "ferry-pass-fl",
+    "ma_name": "West Boylston",
+    "fl_name": "Ferry Pass"
+  },
+  "west-bridgewater-ma": {
+    "fl_slug": "fidelis-fl",
+    "ma_name": "West Bridgewater",
+    "fl_name": "Fidelis"
+  },
+  "west-brookfield-ma": {
+    "fl_slug": "fish-hawk-fl",
+    "ma_name": "West Brookfield",
+    "fl_name": "Fish Hawk"
+  },
+  "west-newbury-ma": {
+    "fl_slug": "fisher-island-fl",
+    "ma_name": "West Newbury",
+    "fl_name": "Fisher Island"
+  },
+  "west-springfield-ma": {
+    "fl_slug": "five-points-fl",
+    "ma_name": "West Springfield",
+    "fl_name": "Five Points"
+  },
+  "west-stockbridge-ma": {
+    "fl_slug": "flagler-beach-fl",
+    "ma_name": "West Stockbridge",
+    "fl_name": "Flagler Beach"
+  },
+  "west-tisbury-ma": {
+    "fl_slug": "flamingo-fl",
+    "ma_name": "West Tisbury",
+    "fl_name": "Flamingo"
+  },
+  "westborough-ma": {
+    "fl_slug": "florahome-fl",
+    "ma_name": "Westborough",
+    "fl_name": "Florahome"
+  },
+  "westfield-ma": {
+    "fl_slug": "floral-city-fl",
+    "ma_name": "Westfield",
+    "fl_name": "Floral City"
+  },
+  "westford-ma": {
+    "fl_slug": "florida-city-fl",
+    "ma_name": "Westford",
+    "fl_name": "Florida City"
+  },
+  "westhampton-ma": {
+    "fl_slug": "florida-ridge-fl",
+    "ma_name": "Westhampton",
+    "fl_name": "Florida Ridge"
+  },
+  "westminster-ma": {
+    "fl_slug": "floridatown-fl",
+    "ma_name": "Westminster",
+    "fl_name": "Floridatown"
+  },
+  "weston-ma": {
+    "fl_slug": "flowersville-fl",
+    "ma_name": "Weston",
+    "fl_name": "Flowersville"
+  },
+  "westport-ma": {
+    "fl_slug": "foley-fl",
+    "ma_name": "Westport",
+    "fl_name": "Foley"
+  },
+  "westwood-ma": {
+    "fl_slug": "forest-city-fl",
+    "ma_name": "Westwood",
+    "fl_name": "Forest City"
+  },
+  "weymouth-ma": {
+    "fl_slug": "fort-basinger-fl",
+    "ma_name": "Weymouth",
+    "fl_name": "Fort Basinger"
+  },
+  "whately-ma": {
+    "fl_slug": "fort-drum-fl",
+    "ma_name": "Whately",
+    "fl_name": "Fort Drum"
+  },
+  "whitman-ma": {
+    "fl_slug": "fort-green-fl",
+    "ma_name": "Whitman",
+    "fl_name": "Fort Green"
+  },
+  "wilbraham-ma": {
+    "fl_slug": "fort-green-springs-fl",
+    "ma_name": "Wilbraham",
+    "fl_name": "Fort Green Springs"
+  },
+  "williamsburg-ma": {
+    "fl_slug": "fort-meade-fl",
+    "ma_name": "Williamsburg",
+    "fl_name": "Fort Meade"
+  },
+  "williamstown-ma": {
+    "fl_slug": "fort-myers-beach-fl",
+    "ma_name": "Williamstown",
+    "fl_name": "Fort Myers Beach"
+  },
+  "wilmington-ma": {
+    "fl_slug": "fort-myers-fl",
+    "ma_name": "Wilmington",
+    "fl_name": "Fort Myers"
+  },
+  "winchendon-ma": {
+    "fl_slug": "fort-myers-shores-fl",
+    "ma_name": "Winchendon",
+    "fl_name": "Fort Myers Shores"
+  },
+  "winchester-ma": {
+    "fl_slug": "fort-ogden-fl",
+    "ma_name": "Winchester",
+    "fl_name": "Fort Ogden"
+  },
+  "windsor-ma": {
+    "fl_slug": "fort-pierce-fl",
+    "ma_name": "Windsor",
+    "fl_name": "Fort Pierce"
+  },
+  "winthrop-ma": {
+    "fl_slug": "fort-walton-beach-fl",
+    "ma_name": "Winthrop",
+    "fl_name": "Fort Walton Beach"
+  },
+  "woburn-ma": {
+    "fl_slug": "fort-white-fl",
+    "ma_name": "Woburn",
+    "fl_name": "Fort White"
+  },
+  "worthington-ma": {
+    "fl_slug": "fountain-fl",
+    "ma_name": "Worthington",
+    "fl_name": "Fountain"
+  },
+  "wrentham-ma": {
+    "fl_slug": "fountainebleau-fl",
+    "ma_name": "Wrentham",
+    "fl_name": "Fountainebleau"
+  },
+  "yarmouth-ma": {
+    "fl_slug": "franklin-park-fl",
+    "ma_name": "Yarmouth",
+    "fl_name": "Franklin Park"
+  }
+}
