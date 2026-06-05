@@ -470,11 +470,11 @@ section .container>h2:not(.section-title){font-size:clamp(28px,4vw,42px);line-he
 .sticky-form-foot{margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}
 .sticky-form-trust{list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:6px;margin:0;padding:0}
 .sticky-form-trust li{font-size:11px;color:var(--charcoal);font-weight:600}
-.mass-save{background:var(--black);color:var(--white);border-top:5px solid var(--safety);text-align:center}
-.mass-save .label-tag{color:var(--safety)}
-.mass-save h2{color:var(--white);margin-bottom:14px}
-.mass-save h2 em{color:var(--safety)}
-.mass-save>.container>p{color:var(--light-on-dark);max-width:680px;margin:0 auto 30px;font-size:16px}
+.florida-energy{background:var(--black);color:var(--white);border-top:5px solid var(--safety);text-align:center}
+.florida-energy .label-tag{color:var(--safety)}
+.florida-energy h2{color:var(--white);margin-bottom:14px}
+.florida-energy h2 em{color:var(--safety)}
+.florida-energy>.container>p{color:var(--light-on-dark);max-width:680px;margin:0 auto 30px;font-size:16px}
 .rebate-grid{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin:0 auto;max-width:1100px;text-align:left}
 .rebate-card{background:rgba(255,255,255,.04);border:2px solid var(--safety);padding:24px}
 .rebate-amount{font-family:'Bebas Neue','Arial Narrow',sans-serif;font-size:42px;line-height:1;letter-spacing:.02em;color:var(--safety);margin:0 0 8px}

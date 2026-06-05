@@ -16,4 +16,5 @@ Thumbs.db
 
 # Local temp / migration scripts
 _migrate_*.py
+_migrate_ma_urls.py
 /tmp/

@@ -188,7 +188,7 @@
   }
 
   // Expose minimal API for manual events
-  window.proBuildAnalytics = {
+  window.iwdAnalytics = {
     event: function (type, value, meta) {
       send('event', { t: String(type).slice(0, 32), val: String(value || '').slice(0, 200), meta: meta || null }, false);
     }
