@@ -17,4 +17,7 @@ Thumbs.db
 # Local temp / migration scripts
 _migrate_*.py
 _migrate_ma_urls.py
+_fix_florida_content.py
+_fix_remaining_ma.py
+_fix_*.py
 /tmp/

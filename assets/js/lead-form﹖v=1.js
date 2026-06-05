@@ -14,7 +14,7 @@
 
   const ENDPOINT = 'https://lead.iwdmiami.com/lead';
   const MIN_FILL_TIME_MS = 2000; // bot-speed silent drop
-  const PHONE_FALLBACK = '(508) 555-0100'; // shown in error state
+  const PHONE_FALLBACK = '(305) 555-0100'; // shown in error state
 
   const STD_KEYS = new Set([
     'full_name', 'name', 'first_name', 'last_name', 'firstname', 'lastname',
