@@ -495,7 +495,10 @@ section .container>h2:not(.section-title){font-size:clamp(28px,4vw,42px);line-he
 .cities-grid{list-style:none;display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:24px auto 0;max-width:1100px;padding:0}
 .cities-grid li{margin:0}
 .city-link{display:block;background:var(--white);border:2px solid var(--black);padding:14px;text-align:center;text-decoration:none;color:var(--ink);font-weight:600;font-size:14px;letter-spacing:.06em;transition:all .15s}
+.city-link h3{font-family:'Bebas Neue','Arial Narrow',sans-serif;font-size:18px;font-weight:400;margin:0 0 4px;letter-spacing:.04em;line-height:1.1;color:inherit}
+.city-link span{display:block;font-size:12px;font-weight:500;letter-spacing:.04em;color:var(--charcoal)}
 .city-link:hover{background:var(--safety);color:var(--black)}
+.city-link:hover span{color:var(--black)}
 .faq{background:var(--paper)}
 .faq .section-title{margin-bottom:36px}
 .faq-list{display:flex;flex-direction:column;gap:10px;max-width:880px;margin:0 auto}
@@ -644,10 +647,10 @@ button[aria-busy="true"]{opacity:.7;cursor:wait}
 .neighborhoods-grid .nbhd-card{display:block;background:#FFFFFF;border:2px solid #1F3A2E;padding:16px 18px;height:100%;border-left:4px solid #C49B48;transition:background .15s,color .15s,transform .12s,box-shadow .12s,border-color .12s;text-decoration:none !important;color:#1F3A2E;position:relative}
 .neighborhoods-grid .nbhd-card *{text-decoration:none !important}
 .neighborhoods-grid .nbhd-card::after{content:'→';position:absolute;right:14px;top:14px;font-family:'Bebas Neue','Arial Narrow',sans-serif;font-size:18px;color:#4A4A4A;transition:color .15s,right .12s,opacity .12s;opacity:0}
-.neighborhoods-grid .nbhd-card h4{font-family:'Bebas Neue','Arial Narrow',sans-serif;font-weight:400;font-size:20px;margin:0 0 4px;letter-spacing:.04em;color:#1F3A2E;line-height:1.1;padding-right:24px}
+.neighborhoods-grid .nbhd-card h3,.neighborhoods-grid .nbhd-card h4{font-family:'Bebas Neue','Arial Narrow',sans-serif;font-weight:400;font-size:20px;margin:0 0 4px;letter-spacing:.04em;color:#1F3A2E;line-height:1.1;padding-right:24px}
 .neighborhoods-grid .nbhd-card span{display:block;font-size:13px;color:#333333;line-height:1.45;font-weight:500}
 .neighborhoods-grid .nbhd-card:hover{background:#1F3A2E !important;color:#FFFFFF !important;transform:translateY(-3px);border-color:#C49B48 !important;box-shadow:5px 5px 0 #C49B48}
-.neighborhoods-grid .nbhd-card:hover h4{color:#C49B48 !important}
+.neighborhoods-grid .nbhd-card:hover h3,.neighborhoods-grid .nbhd-card:hover h4{color:#C49B48 !important}
 .neighborhoods-grid .nbhd-card:hover span{color:#FFFFFF !important}
 .neighborhoods-grid .nbhd-card:hover::after{color:#C49B48 !important;right:10px;opacity:1}
 @media (max-width:900px){.neighborhoods-grid{grid-template-columns:repeat(2,1fr)}}

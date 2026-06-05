@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Redirect explicit index.html requests to clean directory URLs
+RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Add trailing slash to directory URLs (keeps relative nav links working)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.+)$ /$1/ [R=301,L]
+
+DirectoryIndex index.html
